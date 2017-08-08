@@ -12,8 +12,7 @@
     "url": "git+https://github.com/sethmh82/React-NYT-Scraper"
   },
   "author": "Seth Michael Harden",
-  "license": "ISC"
-  },
+  "license": "ISC",
   "homepage": "https://github.com/sethmh82/React-NYT-Scraper#readme",
   "dependencies": {
     "axios": "^0.12.0",
