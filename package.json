@@ -1,0 +1,40 @@
+{
+  "name": "scrapereact",
+  "version": "1.0.0",
+  "description": "Web Scraping and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethmh82"
+  },
+  "author": "Seth Michael Harden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethmh82"
+  },
+  "homepage": "https://github.com/sethmh82",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "history": "^3.0.0",
+    "mongoose": "^4.5.0",
+    "morgan": "~1.6.1",
+    "path": "^0.12.7",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1",
+    "socket.io": "^1.4.6",
+    "webpack": "^1.13.1"
+  }
+}
